@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = janekiversen@gmail.com
+	name = Janek Iversen
